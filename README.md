@@ -3,7 +3,7 @@ I am just a fucking nerd.
 My dream is to realize the *strong AI*
 
 I love learning computer tech, esp. computer languages.
-I master Python, Matlab, LaTex, and I'm also good at Lua, Ruby, ever made codes in HTML/CSS/JS, Haskell/Lisp.
+I master Python, Matlab, LaTex, and I'm also good at Lua, Ruby, ever made codes by HTML/CSS/JS, Haskell/Lisp.
 Sublime Text is my favourite editors recently, someday I will try to use VSCode.
 
 Do not be shy, just talk with me.
