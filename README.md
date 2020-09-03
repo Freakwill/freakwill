@@ -1,10 +1,10 @@
 # Who am I
-I am just a fucking nerd.
+I am just a bloody fucking nerd.
 My dream is to realize the *strong AI*
 
 I love learning computer tech, esp. computer languages.
 I master Python, Matlab, LaTex, and I'm also good at Lua/MoonScript, Ruby/Crystal, ever made codes by HTML/CSS/JS/TS/CoffeeScript, Haskell/Lisp.
-Sublime Text is my favourite editors recently, someday I will try to use VSCode.
+Sublime Text is my favourite editors currently, someday I will try to use VSCode.
 
 Do not be shy, just talk with me.
 
