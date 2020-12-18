@@ -4,7 +4,7 @@ My dream is to realize the *strong AI*
 
 I love learning computer tech, esp. computer languages.
 I master Python, Matlab, LaTex, and I'm also good at Lua/MoonScript, Ruby/Crystal, also code by HTML/CSS/JS/TS/CoffeeScript, Haskell/Lisp.
-Sublime Text is my favourite editors currently, someday I will try to use VSCode.
+Sublime Text is my favourite editors currently, and I use VSCode more frequent than before.
 
 Do not be shy, just talk with me.
 
