@@ -8,6 +8,8 @@ Sublime Text is my favourite editors currently, and I use VSCode more frequent t
 
 I studied Wavelet analysis for Master degree, Harmonic analysis for PhD. Now I study machine learning for my dream.
 
+I am employed by BIMSA.
+
 Do not be shy, just talk with me.
 
 # My Blog
