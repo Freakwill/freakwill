@@ -17,3 +17,5 @@ Do not be shy, just talk with me.
 
 # My Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=freakwill&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+NOTHING CAN STOP ME!!!
