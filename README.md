@@ -1,5 +1,5 @@
 # Who am I
-I am just a bloody and creepy fucking nerd. 🤓
+I am just a bloody and creepy and spooky (not snoopy🐶) fucking nerd. 🤓
 My dream is to realize the *strong AI*
 
 I love learning computer tech, esp. computer languages.
